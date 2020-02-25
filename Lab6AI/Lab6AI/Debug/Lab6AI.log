@@ -1,0 +1,5 @@
+﻿  Part2.cpp
+C:\Users\Myself\source\repos\Lab6AI\Lab6AI\Part2.cpp(56,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Myself\source\repos\Lab6AI\Lab6AI\Part2.cpp(59,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Myself\source\repos\Lab6AI\Lab6AI\Part2.cpp(97,20): warning C4018: '<': signed/unsigned mismatch
+  Lab6AI.vcxproj -> C:\Users\Myself\source\repos\Lab6AI\Debug\Lab6AI.exe
